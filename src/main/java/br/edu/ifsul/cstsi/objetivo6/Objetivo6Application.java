@@ -7,5 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Objetivo6Application {
     public static void main(String[] args) {
         SpringApplication.run(Objetivo6Application.class, args);
+        HomeController.main(null);
     }
 }

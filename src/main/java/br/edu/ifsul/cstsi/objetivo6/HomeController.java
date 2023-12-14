@@ -1,3 +1,4 @@
+package br.edu.ifsul.cstsi.objetivo6;
 
 import br.edu.ifsul.cstsi.objetivo6.corridas.CorridaController;
 import br.edu.ifsul.cstsi.objetivo6.motoristas.MotoristaController;
